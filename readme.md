@@ -2,8 +2,9 @@
 
 ```ruby
 class Test
-  def initialize(name)
+  def initialize(name, age)
     name = 'Tyler'
+    age = 28
   end
 end
 ```
